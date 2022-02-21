@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c94c6936-5ae3-4e5a-8fbb-60b47065aa31" name="Default Changelist" comment="Worked on productlist in HTML and javascript">
-      <change afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
+    <list default="true" id="c94c6936-5ae3-4e5a-8fbb-60b47065aa31" name="Default Changelist" comment="Added media-queries.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/productlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/productlist.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
@@ -45,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645401012064</updated>
-      <workItem from="1645401013250" duration="8331000" />
+      <workItem from="1645401013250" duration="11823000" />
     </task>
     <task id="LOCAL-00001" summary="Create files">
       <created>1645403967154</created>
@@ -68,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645409156411</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added media-queries.css">
+      <created>1645410631702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645410631702</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +86,8 @@
     <MESSAGE value="Create files" />
     <MESSAGE value="Edited documetn" />
     <MESSAGE value="Worked on productlist in HTML and javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="Worked on productlist in HTML and javascript" />
+    <MESSAGE value="Added media-queries.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added media-queries.css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="506" y="238" key="Github.ShareDialog" timestamp="1645401119184">
@@ -91,9 +98,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="482" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1645401140170" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1645409160448">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1645410635062">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1645409160448" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1645410635062" />
   </component>
 </project>

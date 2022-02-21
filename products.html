@@ -20,6 +20,8 @@
     <!-- Custom styles for this template -->
     <link href="css/jumbotron-narrow.css" rel="stylesheet">
 
+    <link rel="stylesheet" type="text/css" href="css/media-queries.css">
+
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
@@ -46,7 +48,20 @@
 </div>
 
 <h2>Video Games</h2>
-<div class=""
+<div class="filter-wrapper">
+
+    <div class="form-group" style="margin-right: 20px;">
+        <label for="orderBy">Order By</label>
+        <select id="orderBy" name="orderBy">
+            <option value="name">Name</option>
+            <option value="published">Price</option>
+        </select>
+    </div>
+
+</div>
+
+<div class="content-container" id="">
+</div>
 
 
 <script type="text/javascript" src="js/productlist.js"></script>

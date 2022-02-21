@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c94c6936-5ae3-4e5a-8fbb-60b47065aa31" name="Default Changelist" comment="Added media-queries.css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/productlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/productlist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
-    </list>
+    <list default="true" id="c94c6936-5ae3-4e5a-8fbb-60b47065aa31" name="Default Changelist" comment="Edited productlist.js&#10;Created fake database" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645401012064</updated>
-      <workItem from="1645401013250" duration="11823000" />
+      <workItem from="1645401013250" duration="12464000" />
     </task>
     <task id="LOCAL-00001" summary="Create files">
       <created>1645403967154</created>
@@ -74,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645410631702</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Edited productlist.js&#10;Created fake database">
+      <created>1645414978288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645414978288</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +90,8 @@
     <MESSAGE value="Edited documetn" />
     <MESSAGE value="Worked on productlist in HTML and javascript" />
     <MESSAGE value="Added media-queries.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added media-queries.css" />
+    <MESSAGE value="Edited productlist.js&#10;Created fake database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited productlist.js&#10;Created fake database" />
   </component>
   <component name="WindowStateProjectService">
     <state x="506" y="238" key="Github.ShareDialog" timestamp="1645401119184">
@@ -98,9 +102,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="482" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1645401140170" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1645410635062">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1645414981835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1645410635062" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1645414981835" />
   </component>
 </project>

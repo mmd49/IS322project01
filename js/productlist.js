@@ -5,16 +5,16 @@ button1.addEventListener('click', function (event) {
 });*/
 (function () {
     var database = [
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
-        {_id:'', name:'', genre:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
+        {_id:'', name:'', genre:'', price:''},
     ];
 
     function renderList (results)

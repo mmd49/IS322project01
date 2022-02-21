@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c94c6936-5ae3-4e5a-8fbb-60b47065aa31" name="Default Changelist" comment="Edited documetn">
-      <change afterPath="$PROJECT_DIR$/js/productlist.js" afterDir="false" />
+    <list default="true" id="c94c6936-5ae3-4e5a-8fbb-60b47065aa31" name="Default Changelist" comment="Worked on productlist in HTML and javascript">
+      <change afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/productlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/productlist.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -45,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645401012064</updated>
-      <workItem from="1645401013250" duration="7008000" />
+      <workItem from="1645401013250" duration="8331000" />
     </task>
     <task id="LOCAL-00001" summary="Create files">
       <created>1645403967154</created>
@@ -61,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645405925392</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Worked on productlist in HTML and javascript">
+      <created>1645409156411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645409156411</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,7 +79,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Create files" />
     <MESSAGE value="Edited documetn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited documetn" />
+    <MESSAGE value="Worked on productlist in HTML and javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Worked on productlist in HTML and javascript" />
   </component>
   <component name="WindowStateProjectService">
     <state x="506" y="238" key="Github.ShareDialog" timestamp="1645401119184">
@@ -83,9 +91,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="482" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1645401140170" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1645405937736">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1645409160448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1645405937736" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1645409160448" />
   </component>
 </project>
